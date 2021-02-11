@@ -1,2 +1,3 @@
 # aide-example-project
-first project
+first project.
+register && login.
