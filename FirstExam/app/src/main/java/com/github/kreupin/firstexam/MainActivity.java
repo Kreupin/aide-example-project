@@ -1,4 +1,4 @@
-package com.example.firstexam;
+package com.github.kreupin.firstexam;
 
 import android.app.*;
 import android.os.*;
